@@ -4,21 +4,21 @@
         <description><![CDATA[Thought Assembly]]></description>
         <link>https://thegrid.ai/thought-assembly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 22:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 22:22:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thought-assembly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<article><h1>Services</h1><p>Rapidly protoptye</p></article>]]></description>
+            <link>https://thegrid.ai/thought-assembly/services/index.html</link>
+            <guid isPermaLink="false">3f5376c8-e52c-4157-ae63-2ddafe96b11f</guid>
+            <pubDate>Tue, 31 May 2016 22:22:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Got product ideas?]]></title>
             <description><![CDATA[<article><h1>Got product ideas?</h1><h2>Make useful prototypes</h2><p>Find out if they're any good with rapid, validated learning.</p></article>]]></description>
             <link>https://thegrid.ai/thought-assembly/got-product-ideas/index.html</link>
             <guid isPermaLink="false">f8fc399f-2ba3-4937-95f8-65cd0cdf4f4b</guid>
             <pubDate>Tue, 31 May 2016 22:17:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Services]]></title>
-            <description><![CDATA[<article><h1>Services</h1><p>Rapidly protoptye</p></article>]]></description>
-            <link>https://thegrid.ai/thought-assembly/services/index.html</link>
-            <guid isPermaLink="false">3f5376c8-e52c-4157-ae63-2ddafe96b11f</guid>
-            <pubDate>Tue, 31 May 2016 22:15:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
