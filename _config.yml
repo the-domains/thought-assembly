@@ -1,0 +1,28 @@
+name: Thought Assembly
+favicon: null
+layout_spectrum: 0.1596825299784541
+typography_spectrum: 0.8904321477748454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4361586479935795
+  lightness: 0.15976024698466063
+  saturation: 0.5841796100139618
+  rhythmicContrast: 0.5836256959009916
+purpose: []
